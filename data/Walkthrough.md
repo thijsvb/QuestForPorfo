@@ -2,11 +2,11 @@
 
 Congratulations! You have found the walkthrough, even though it was hidden one folder deep.
 
-## Good ending
+## Easy save Porfo ending
 
  * Click `Talk`
  * Click `#TeamJacob`
  
- ## Bad ending
+ ## Other endings
  
-  * Do something else than described at `Good ending`
+  * Do something else than described at `Easy save Porfo ending`
