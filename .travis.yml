@@ -1,8 +1,9 @@
 language: java
 
-script: 
+script:
   - jdk_switcher use oraclejdk8
   - ./download_processing.sh
+  - pwd
   - ./build.sh
 
 after_failure:
