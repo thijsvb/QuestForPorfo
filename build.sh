@@ -1,6 +1,6 @@
 #!/bin/bash
 myexe="./processing-3.1.1/processing-java"
-input_folder="../QuestForPorfo"
+input_folder="QuestForPorfo"
 output_folder=$input_folder"_output"
 
 if [ ! -e $myexe ]
