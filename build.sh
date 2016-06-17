@@ -1,4 +1,6 @@
+
 #!/bin/bash
+set -v
 myexe="./processing-3.1.1/processing-java"
 input_folder=${PWD##*/} 
 output_folder=$input_folder"_output"
@@ -26,6 +28,7 @@ then
   echo "Folder '"$output_folder"' could not be deleted, line "$LINENO
   exit 1
 fi
+
 
 $myexe --sketch=$input_folder --output=$output_folder --build
 
