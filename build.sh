@@ -2,7 +2,7 @@
 #!/bin/bash
 set -v
 myexe="./processing-3.1.1/processing-java"
-input_folder=${PWD##*/} 
+input_folder=${PWD##} 
 output_folder=$input_folder"_output"
 
 if [ ! -e $myexe ]
