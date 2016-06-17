@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/thijsvb/QuestForPorfo.svg?branch=master)](https://travis-ci.org/thijsvb/QuestForPorfo)
+
 # QuestForPorfo
 A stupid, ugly programmed, short Drawfee game. I'm sorry.
 ---
