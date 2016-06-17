@@ -3,6 +3,7 @@
 set -v
 myexe="./processing-3.1.1/processing-java"
 input_folder=${PWD##} 
+sketch_name=${PWD##*/}
 output_folder=$input_folder"_output"
 
 if [ ! -e $myexe ]
