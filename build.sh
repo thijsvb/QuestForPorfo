@@ -29,6 +29,9 @@ then
   exit 1
 fi
 
+echo "myexe: "$myexe
+echo "input_folder: "$input_folder
+echo "output_folder: "$output_folder
 
 $myexe --sketch=$input_folder --output=$output_folder --build
 
